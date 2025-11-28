@@ -1,5 +1,6 @@
 # _config.yml
-title: ""
+title: "Tutorial: Did something just break? - A Stream-Learning View on System Monitoring and Explainability"
+description: "Tutorial at WCCI 2026"
 # GitHub Pages settings
 theme: minima
 
