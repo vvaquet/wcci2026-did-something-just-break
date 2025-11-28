@@ -2,11 +2,8 @@
 title: "Tutorial: Did something just break? - A Stream-Learning View on System Monitoring and Explainability"
 description: "Tutorial at WCCI 2026"
 # GitHub Pages settings
-theme: minima
+#theme: minima
 
-# Prevent baseurl from including the repository name
-baseurl: "" 
-url: "https://<your-github-username>.github.io"
 
 
 # Other settings
