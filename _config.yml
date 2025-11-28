@@ -1,0 +1,13 @@
+# _config.yml
+title: ""
+# GitHub Pages settings
+theme: minima
+
+# Prevent baseurl from including the repository name
+baseurl: "" 
+url: "https://<your-github-username>.github.io"
+
+
+# Other settings
+markdown: kramdown
+show_excerpts: false
